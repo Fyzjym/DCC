@@ -8,12 +8,12 @@ For the relevant code, please check the network section of the corresponding met
 
 # Model
 
-![Model](https://github.com/Fyzjym/DCC_for_HTG/blob/master/fig/model_arch.png)
+![Model]([https://github.com/Fyzjym/DCC_for_HTG/blob/master/fig/model_arch.png](https://github.com/Fyzjym/DCC/blob/main/file/model_arch2.png))
 
 
 # Result
 
-![Result](https://github.com/Fyzjym/DCC_for_HTG/blob/master/fig/long_show_lines.png)
+![Result]([https://github.com/Fyzjym/DCC_for_HTG/blob/master/fig/long_show_lines.png](https://github.com/Fyzjym/DCC/blob/main/file/show_lines_new.png))
 
 
 
@@ -32,6 +32,8 @@ https://github.com/aimagelab/VATr
 https://github.com/ankanbhunia/Handwriting-Transformers
 
 https://github.com/omni-us/research-GANwriting
+
+https://github.com/EDM-Research/VATr-pp
 
 https://github.com/lijian16/FCC
 
