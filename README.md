@@ -8,12 +8,12 @@ For the relevant code, please check the network section of the corresponding met
 
 # Model
 
-![Model]([https://github.com/Fyzjym/DCC_for_HTG/blob/master/fig/model_arch.png](https://github.com/Fyzjym/DCC/blob/main/file/model_arch2.png))
+![Model](https://github.com/Fyzjym/DCC/blob/main/file/model_arch2.png)
 
 
 # Result
 
-![Result]([https://github.com/Fyzjym/DCC_for_HTG/blob/master/fig/long_show_lines.png](https://github.com/Fyzjym/DCC/blob/main/file/show_lines_new.png))
+![Result](https://github.com/Fyzjym/DCC/blob/main/file/show_lines_new.png)
 
 
 
@@ -22,7 +22,7 @@ FID：
 
 https://github.com/mseitzer/pytorch-fid
 
-HWD：
+HWD, KID：
 
 https://github.com/aimagelab/HWD
 
