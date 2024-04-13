@@ -15,7 +15,9 @@ For the relevant code, please check the network section of the corresponding met
 
 ![Result](https://github.com/Fyzjym/DCC/blob/main/file/show_lines_new.png)
 
+# Pre-trained models
 
+The latest SOTA model will be released after the paper is received.
 
 # Evaluation metrics
 FID：
