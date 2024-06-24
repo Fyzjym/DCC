@@ -1,5 +1,5 @@
 # Description
-This code repository is the official implementation of the paper "Exploring Better Handwritten Text Generation with Dynamic Category Compression".
+This code repository is the official implementation of the paper "DCC: Dynamic Category Compression for Enhanced Handwritten Text Generation".
 
 # Instruction
 Our proposed method is generic and effective, and theoretically can be seamlessly integrated into existing HTG methods.
