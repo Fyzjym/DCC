@@ -6,9 +6,13 @@ Our proposed method is generic and effective, and theoretically can be seamlessl
 
 For the relevant code, please check the network section of the corresponding method on your own.
 
-# Model
+# Generalized HTR method based on GAN
 
-![Model](https://github.com/Fyzjym/DCC/blob/main/file/model_arch2.png)
+![Model](https://github.com/Fyzjym/DCC/blob/main/file/htg.png)
+
+# Our method
+
+![Model](https://github.com/Fyzjym/DCC/blob/main/file/dcc.png)
 
 
 # Result
