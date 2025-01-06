@@ -8,7 +8,7 @@ import shutil
 import math
 
 
-def read_file(file_path='/home/WeiHongxi/Node95/Ym/Project_20230709_VATr/VATr_FCC_tau_a/corpora_english/wid_count.dict'):
+def read_file(file_path='/path/2/classinfo/wid_count.dict'):
     with open(file_path, 'r') as file:
         content = file.read()
     return eval(content) # make content to <dict type>
