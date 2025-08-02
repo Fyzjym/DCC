@@ -1,3 +1,11 @@
+# News!
+This essay has been accepted!
+
+Any questions can contact wym_datas@163.com.
+
+Looking forward to any friendly exchanges and cooperation.
+
+
 # Description
 This code repository is the official implementation of the paper "DCC: Dynamic Category Compression for Enhanced Handwritten Text Generation".
 
